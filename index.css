@@ -1,0 +1,67 @@
+h1 {
+	text-align:center;
+	font-weight:bold;
+	color:magenta;
+	
+  }
+h2{
+	  font-size: 30px;
+	  text-align:center;
+  }
+h4 {
+	font-weight:bold;
+	color:#e909ce;
+}
+.no {
+	font:19px/175% Bodoni MT;
+	color: black;
+}
+h3
+{
+	color:darkviolet;
+}
+.UVF {
+	font-family:arial;
+	font-size: 18px;
+	color:#0894B2;
+	
+}
+.SCF {
+	font-family:Century Schoolbook;
+	font-size: 18px;
+	color:#89075F;
+	}
+.Cousin {
+	font-family:timesnewroman;
+	font-size: 1.5em;
+	text-transform:uppercase;
+	color:#0C9718;
+}
+.bold {
+	font-weight:bold;
+}
+.italic {
+	font-style:italic;
+}
+.spa{ font-size:5em; }
+.cow { font:italic bold  26px/170% Bell MT;
+}
+.গরু{
+	font: bold  18px/170% Shonar Bangla;
+	color:#D8071A;
+}
+
+.eEng{
+	height:300px; width:600px;
+	overflow:scroll;
+	border: 3px solid #0750DC;
+	float:left;
+	margin-right:20px
+}
+.eBan{
+	height:300px; width:600px;
+	overflow:scroll;
+	border: 3px solid #2AE308;
+	float:left;
+	
+}
